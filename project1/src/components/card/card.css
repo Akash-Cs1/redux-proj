@@ -1,0 +1,14 @@
+.cardWrapper{
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0 10px 0;
+    column-gap: 50px;
+    align-items: center;
+  justify-content: center;
+  width: 400px;
+  margin: 207px 0 0 40%;
+}
+.mobileImg{
+    width: 80px;
+}

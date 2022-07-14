@@ -1,11 +1,12 @@
-
-import './App.css';
-import Button from './components/button';
+import "./App.css";
+import Cart from "./components/cart";
+import Card from "./components/card";
 
 function App() {
   return (
-    <div className="App text-center">
-     <Button />
+    <div className="App">
+      <Cart />
+      <Card />
     </div>
   );
 }

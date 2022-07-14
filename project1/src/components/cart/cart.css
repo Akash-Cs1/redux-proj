@@ -1,0 +1,22 @@
+.card-wrapper{
+    position: relative;
+    width: 90px;
+    float: right;
+    margin: -204px 10px 0 0;
+    margin-right: 19px;
+    
+}
+.cardImage{
+    position: relative;
+}
+.cartNumber{
+    background-color: aqua;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: absolute;
+    margin : -55px 0 0 61px;
+    padding : 0 0 0 8px;
+    cursor: pointer;
+    
+}
